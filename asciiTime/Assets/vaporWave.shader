@@ -30,8 +30,8 @@
 			    float colB = c.b * 255;
 
 			    int brighness = min((int)(((colR + colG + colB)/3/_Brightness) * 6), 8);
-			    int onSpriteX = (i.uv.x * 31.0f * 128.0f) % 31.0f;
-			    int onSpriteY = ((i.uv.y * 52.0f * 41.0f) % 52.0f)*16.0f/9.0f;
+			    int onSpriteX = (i.uv.x * 31.0f * _PixWidth) % 31.0f;
+			    int onSpriteY = ((i.uv.y * 52.0f * _PixHeight) % 52.0f)*16.0f/9.0f;
 
 
 			    half2 charCoords = half2((brighness * 31.0f / 300.0f)+(onSpriteX/300.0f),(onSpriteY / 300.0f));

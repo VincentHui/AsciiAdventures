@@ -1,10 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/vaporWave.shader">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\vaporWave.shader">
     <Files>
-      <File FileName="Assets/renderImage.cs" Line="9" Column="47" />
-      <File FileName="Assets/grey.shader" Line="1" Column="1" />
-      <File FileName="Assets/vaporWave.shader" Line="32" Column="69" />
+      <File FileName="Assets\vaporWave.shader" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
