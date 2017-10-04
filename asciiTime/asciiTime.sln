@@ -1,11 +1,11 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{04392BA9-FDD5-30C9-A2AF-B1F1C616881C}") = "asciiTime", "Assembly-CSharp-firstpass.csproj", "{C7E8B7CE-A72D-4FE4-37FE-877A1942DFEC}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asciiTime", "Assembly-CSharp-firstpass.csproj", "{C7E8B7CE-A72D-4FE4-37FE-877A1942DFEC}"
 EndProject
-Project("{04392BA9-FDD5-30C9-A2AF-B1F1C616881C}") = "asciiTime", "Assembly-CSharp.csproj", "{00F82B7E-808A-0CE7-3886-4C101E655FAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asciiTime", "Assembly-CSharp.csproj", "{00F82B7E-808A-0CE7-3886-4C101E655FAE}"
 EndProject
-Project("{04392BA9-FDD5-30C9-A2AF-B1F1C616881C}") = "asciiTime", "Assembly-CSharp-Editor.csproj", "{363E5F6A-A7B3-E0F7-0377-B73758ACFEBC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asciiTime", "Assembly-CSharp-Editor.csproj", "{363E5F6A-A7B3-E0F7-0377-B73758ACFEBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
